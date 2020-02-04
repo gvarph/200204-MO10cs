@@ -1,0 +1,12 @@
+﻿kódy:
+d
+d - dddd
+MMMM
+yyyy
+D
+
+RČ generujte čtyřčíslí za lomítkem s pravidly dělitelnosti
+devítičíslí vydělit 11
+- zbytek zapsat, jako poslední číslici
+- pokud je to 10 >> píše se 0
+
